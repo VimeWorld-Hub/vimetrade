@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30b39eef-c3d9-4ab7-b248-9962db4578df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands/trade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listeners/group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/FreeKassa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/MySQL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/Sender.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/TaskManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Konani 3.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/chark.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/apanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/apanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/buy.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/buy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/check.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/checkqiwi.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/history.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/help.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/newapanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/priv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/sell.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/sell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/sells.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/sells.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/start.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/unsell.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/unsell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/libs/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/mysql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/vimecp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listeners/message_new.js" beforeDir="false" afterPath="$PROJECT_DIR$/listeners/message_new.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/operations.js" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/vimers.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2CM7q21wsykjc7geZoWYUXvsGoV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\root\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30b39eef-c3d9-4ab7-b248-9962db4578df" name="Default Changelist" comment="" />
+      <created>1658600786653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658600786653</updated>
+      <workItem from="1658600788014" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

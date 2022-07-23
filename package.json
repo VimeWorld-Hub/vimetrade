@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@vk-io/session": "^2.1.0",
+    "axios": "^0.21.1",
+    "express": "^4.17.2",
+    "generate-password": "^1.7.0",
+    "vk-io": "^4.3.2",
+    "vk-io-question": "^3.1.1"
+  },
+  "devDependencies": {
+    "md5": "^2.3.0",
+    "mysql2": "^2.2.5"
+  }
+}
